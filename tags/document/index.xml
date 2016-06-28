@@ -190,54 +190,7 @@
 
 &lt;table border=&#34;0&#34; style=&#34;width:100%&#34;&gt;
   &lt;tr&gt;
-    &lt;td align=&#34;left&#34;&gt;&lt;h2&gt; &lt;b&gt; &lt;font color=&#34;#097396&#34;&gt; Pratap Pakhira &lt;/font&gt; &lt;/b&gt;
-&lt;/h2&gt;&lt;/td&gt;
-    &lt;td align=&#34;right&#34;&gt;   &lt;img src=&#34;http://swajanp.github.io/img/Pratap.jpg&#34;  height=&#34;120&#34;&gt; &lt;/td&gt;
- &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;em&gt;Father&amp;rsquo;s Occupation&lt;/em&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/td&gt;
-&lt;td&gt;Fisherman&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;em&gt;Career&lt;/em&gt;&lt;/td&gt;
-&lt;td&gt;81.5% in 10th class exam&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;83.6% in +2 exam&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;em&gt;Present Status&lt;/em&gt;&lt;/td&gt;
-&lt;td&gt;M.B.B.S., N R S Medical College, Kolkata.&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;hr /&gt;
-
-&lt;table border=&#34;0&#34; style=&#34;width:100%&#34;&gt;
-  &lt;tr&gt;
-    &lt;td align=&#34;left&#34;&gt;&lt;h2&gt; &lt;b&gt; &lt;font color=&#34;#097396&#34;&gt; Pratap Pakhira &lt;/font&gt; &lt;/b&gt;
-&lt;/h2&gt;&lt;/td&gt;
+    &lt;td align=&#34;left&#34;&gt; &lt;div id=&#34;scholar-name&#34;&gt; Pratap Pakhira &lt;/div&gt;&lt;/td&gt;
     &lt;td align=&#34;right&#34;&gt;   &lt;img src=&#34;http://swajanp.github.io/img/Pratap.jpg&#34;  height=&#34;120&#34;&gt; &lt;/td&gt;
  &lt;/tr&gt;
 &lt;/table&gt;
